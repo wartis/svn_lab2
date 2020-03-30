@@ -43,4 +43,8 @@ public class K implements E, I {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
 }

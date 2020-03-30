@@ -27,4 +27,8 @@ public class J extends K {
     public long ac() {
         return 111;
     }
+
+    public int af() {
+        return -1;
+    }
 }
