@@ -35,4 +35,8 @@ public class J extends K {
     public void ab() {
         System.out.println();
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }

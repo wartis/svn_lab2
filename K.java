@@ -51,4 +51,8 @@ public class K implements E, I {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
 }
