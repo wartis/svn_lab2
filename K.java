@@ -1,4 +1,4 @@
-public class K implements E, I {
+public class K extends null implements E, I {
 
     private double b = 100.500;
 
@@ -28,16 +28,16 @@ public class K implements E, I {
         return new java.util.Random();
     }
 
-    public int[] ii() {
-        return new int[]{4, 3, 2, 1};
-    }
-
     public float ff() {
         return 3.14;
     }
 
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
     }
 
     public java.lang.Class qq() {

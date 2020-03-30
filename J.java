@@ -12,12 +12,12 @@ public class J extends K {
         return new java.util.Random();
     }
 
-    public Object pp() {
-        return this;
+    public int ae() {
+        return 8;
     }
 
-    public int ae() {
-        return java.lang.Math.abs(-7);
+    public Object pp() {
+        return this;
     }
 
     public java.util.Set<Integer> ll() {
@@ -38,5 +38,9 @@ public class J extends K {
 
     public double ee() {
         return 0.000001;
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.LinkedList<String>();
     }
 }
