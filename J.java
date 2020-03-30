@@ -23,4 +23,8 @@ public class J extends K {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public long ac() {
+        return 111;
+    }
 }
