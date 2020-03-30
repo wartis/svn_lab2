@@ -31,4 +31,8 @@ public class K implements E, I {
     public int[] ii() {
         return new int[]{4, 3, 2, 1};
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
