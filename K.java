@@ -35,4 +35,8 @@ public class K implements E, I {
     public float ff() {
         return 3.14;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }

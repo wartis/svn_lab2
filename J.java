@@ -19,4 +19,8 @@ public class J extends K {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
