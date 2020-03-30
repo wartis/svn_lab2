@@ -15,4 +15,8 @@ public class J extends K {
     public Object pp() {
         return this;
     }
+
+    public int ae() {
+        return java.lang.Math.abs(-7);
+    }
 }
