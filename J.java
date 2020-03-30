@@ -31,4 +31,8 @@ public class J extends K {
     public int af() {
         return -1;
     }
+
+    public void ab() {
+        System.out.println();
+    }
 }
