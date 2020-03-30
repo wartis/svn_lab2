@@ -11,4 +11,8 @@ public class J extends K {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public Object pp() {
+        return this;
+    }
 }
