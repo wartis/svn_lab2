@@ -27,4 +27,8 @@ public class K implements E, I {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
 }
