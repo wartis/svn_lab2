@@ -1,4 +1,4 @@
-public class E extends null {
+public interface E {
 
     Object rr();
 
